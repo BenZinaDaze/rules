@@ -1,0 +1,9 @@
+#  脚本功能：麻豆社区解锁全部视频
+#  下载地址：https://shrtm.nu/mdsq
+#  描述: 点击视频，劫持视频链接，点击通知复制视频链接,禁止麻豆APP缓存
+
+#  麻豆社区解锁全部视频
+
+^https?:\/\/.*\/api\/app\/media\/m3u8\/.*\.m3u8 url script-request-header https://raw.githubusercontent.com/BenZinaDaze/rules/master/Quantumult-X/MdUnlock.js
+
+hostname = ypmnkbb.saejeuj.com, fufxtyc.bytebwq.com, lcbnejx.dirptev.com, gcyivjc.qrneryt.com

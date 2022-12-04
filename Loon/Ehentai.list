@@ -1,0 +1,18 @@
+# E-hentai
+USER-AGENT,*e-hentai*
+USER-AGENT,*exhentai*
+USER-AGENT,*hath.network*
+USER-AGENT,*ehgt.org*
+USER-AGENT,e-hentai*
+USER-AGENT,exhentai*
+USER-AGENT,hath.network*
+USER-AGENT,ehgt.org*
+DOMAIN-KEYWORD,e-hentai
+DOMAIN-KEYWORD,exhentai
+DOMAIN-KEYWORD,hath.network
+DOMAIN-KEYWORD,ehgt.org
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,e-hentaidb.com
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,ehgt.org
