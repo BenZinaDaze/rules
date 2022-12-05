@@ -1,0 +1,5 @@
+#  Nicegram
+
+^https?:\/\/restore-access\.indream\.app\/restoreAccess\?id=\d{5,10} url echo-response text/json echo-response https://raw.githubusercontent.com/BenZinaDaze/rules/master/Quantumult-X/NicegramUnlock.json
+
+hostname = restore-access.indream.app
